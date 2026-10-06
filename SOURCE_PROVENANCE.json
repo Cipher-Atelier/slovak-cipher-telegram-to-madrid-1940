@@ -77,22 +77,22 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "eba9ce8a0eb9459871c1868a5acef467e383c6b1d5735f6a29cbdd94ff8495c2",
+      "sha256": "345f8d7bf01521d044cd9e5efeb72238e94848debfee18c27e288b82ac94baf0",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "README.md",
-      "sha256": "8c0e3e42ef76dafcfd5772dc5045f37ba1ad2865aebc131f484ac93e484b2de1",
+      "sha256": "842966507a44ac5f3697111b58053095cb640f03c986fc2796311fa5d353c3c5",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "SHA256SUMS.txt",
-      "sha256": "63864bac54284a40e59cdd9ac1fa1d8bf9c66713039cfb46d8c6145880ecd5da",
+      "sha256": "6a54e640bc769ece4b0dd637c36722d6bb1172072d8af56d65e3cf0bc68a6f37",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "SOURCE_PROVENANCE.json",
-      "sha256": "86513ae5039f11060a498384c53d20628d564feba402a197daf24bb77f018046",
+      "sha256": "7b990d31addaa3f3b796d39e7c134fc6c1a63f4db89c721fd68c01d9827a9174",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "path": "verification/TOPIC_SCOPE_INDEX.json",
-      "sha256": "2a63947067a8ebd9fd227855d3a670398fa22fbb57390b16b969428b889cb6dd",
+      "sha256": "965d168ae84635c251f0df769c6df3ec6d3f1eee97e3845a0480bdec0fcd07ed",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
@@ -136,5 +136,11 @@
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     }
   ],
-  "rights": "Source-specific credits and restrictions apply; no new blanket licence."
+  "rights": "Source-specific credits and restrictions apply; no new blanket licence.",
+  "repository_rename": {
+    "previous_slug": "madrid-1940",
+    "current_slug": "slovak-cipher-telegram-to-madrid-1940",
+    "date_utc": "2026-10-06",
+    "scope": "Document labels, description and navigation only. Repository identity/history and scientific identifiers remain preserved."
+  }
 }
