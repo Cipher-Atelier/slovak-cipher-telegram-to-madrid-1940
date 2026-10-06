@@ -1,0 +1,1695 @@
+{
+  "identifier": "HCP125 typed cipher; independent image-only training audit v2",
+  "source_path": "[private working path omitted]",
+  "source_url": "https://api.hcportal.eu/media/331/12921655394769.jpg",
+  "source_url_provenance": "Supplied in assignment; local original used, URL not re-downloaded.",
+  "source_sha256": "bb5ae33ea563566f922010b7629bd4e4235a9185dfff5ade4ca10ea14cb8a667",
+  "source_dimensions": [
+    3024,
+    4032
+  ],
+  "date_utc": "2026-10-04T14:30:51.875221+00:00",
+  "scope": {
+    "transmitted_training_positions": [
+      1,
+      77
+    ],
+    "training_count": 77,
+    "header_total_supplied_by_assignment": 97,
+    "header_signature_layout_excluded": true,
+    "holdout_positions_not_transcribed_or_analyzed": [
+      78,
+      97
+    ]
+  },
+  "blind_protocol": {
+    "files_read_for_evidence": [
+      "[private working path omitted]"
+    ],
+    "prior_transcriptions_read": false,
+    "pilot_model_control_results_read": false,
+    "candidate_key_plaintext_holdout_files_read": false,
+    "language_or_decipherment_used": false,
+    "comparison_reference": "Repeated typewriter letterforms only within positions 1–77",
+    "layout_locator": "378x504 downsampling and Gaussian blur 1.4; only used to locate lines, not read text",
+    "boundary_note": "A preliminary diagnostic crop had a narrow right-edge fragment beyond the final x=2762 boundary; no following glyph was interpreted. That diagnostic was subsequently tightened in this new audit folder."
+  },
+  "coordinate_convention": "Original image pixels; top-left origin; [left,top,right,bottom], right/bottom exclusive. Glyph crops are contextual cells, not exact ink segmentation.",
+  "confidence_convention": "Subjective visual confidence in preferred glyph, not statistically calibrated; alternatives are finite visual possibilities and are not decipherment-ranked.",
+  "transcription_preferred_rows": [
+    "nkany mtons pndnx gynnl ksnjw osewx wzlpg",
+    "yboeg xivmi karno ewmgx pagrn ripbg orgub ieodi an"
+  ],
+  "transcription_diplomatic_rows": [
+    "nkany [m/n]ton[s/e] pndnx gynnl ksnjw o[s/e]ewx wzlpg",
+    "yboeg xiv[m/n]i karno ew[m/n]gx pagrn ripbg org[u/n]b i[e/a]odi an"
+  ],
+  "preferred_transmitted_letters": "nkanymtonspndnxgynnlksnjwosewxwzlpgyboegxivmikarnoewmgxpagrnripbgorgubieodian",
+  "unresolved_positions": [
+    6,
+    10,
+    27,
+    44,
+    53,
+    69,
+    72
+  ],
+  "unknown_unbounded_positions": [],
+  "alternative_combinations_if_independent": 128,
+  "letters": [
+    {
+      "position": 1,
+      "row": 1,
+      "group_in_row": 1,
+      "offset_in_group": 1,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1060,
+        900,
+        1119,
+        1000
+      ],
+      "crop_file": "glyph_crops/pos_01.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 2,
+      "row": 1,
+      "group_in_row": 1,
+      "offset_in_group": 2,
+      "preferred": "k",
+      "alternatives": [
+        "k"
+      ],
+      "diplomatic_token": "k",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1109,
+        900,
+        1162,
+        1000
+      ],
+      "crop_file": "glyph_crops/pos_02.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 3,
+      "row": 1,
+      "group_in_row": 1,
+      "offset_in_group": 3,
+      "preferred": "a",
+      "alternatives": [
+        "a"
+      ],
+      "diplomatic_token": "a",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1152,
+        900,
+        1205,
+        1000
+      ],
+      "crop_file": "glyph_crops/pos_03.png",
+      "observation": "Double-storey a, with lower bowl and right foot; compare 47/57/76."
+    },
+    {
+      "position": 4,
+      "row": 1,
+      "group_in_row": 1,
+      "offset_in_group": 4,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1195,
+        900,
+        1253,
+        1000
+      ],
+      "crop_file": "glyph_crops/pos_04.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 5,
+      "row": 1,
+      "group_in_row": 1,
+      "offset_in_group": 5,
+      "preferred": "y",
+      "alternatives": [
+        "y"
+      ],
+      "diplomatic_token": "y",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1243,
+        900,
+        1299,
+        1000
+      ],
+      "crop_file": "glyph_crops/pos_05.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 6,
+      "row": 1,
+      "group_in_row": 2,
+      "offset_in_group": 1,
+      "preferred": "m",
+      "alternatives": [
+        "m",
+        "n"
+      ],
+      "diplomatic_token": "[m/n]",
+      "visual_confidence": 0.82,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1320,
+        890,
+        1385,
+        990
+      ],
+      "crop_file": "glyph_crops/pos_06.png",
+      "observation": "Two narrow interior spaces with a faint medial stem favor m; blur leaves n viable. Compare 44 and 53, and clear n at 9/12/49/77."
+    },
+    {
+      "position": 7,
+      "row": 1,
+      "group_in_row": 2,
+      "offset_in_group": 2,
+      "preferred": "t",
+      "alternatives": [
+        "t"
+      ],
+      "diplomatic_token": "t",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1375,
+        890,
+        1429,
+        990
+      ],
+      "crop_file": "glyph_crops/pos_07.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 8,
+      "row": 1,
+      "group_in_row": 2,
+      "offset_in_group": 3,
+      "preferred": "o",
+      "alternatives": [
+        "o"
+      ],
+      "diplomatic_token": "o",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1419,
+        890,
+        1471,
+        990
+      ],
+      "crop_file": "glyph_crops/pos_08.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 9,
+      "row": 1,
+      "group_in_row": 2,
+      "offset_in_group": 4,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1461,
+        890,
+        1518,
+        990
+      ],
+      "crop_file": "glyph_crops/pos_09.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 10,
+      "row": 1,
+      "group_in_row": 2,
+      "offset_in_group": 5,
+      "preferred": "s",
+      "alternatives": [
+        "s",
+        "e"
+      ],
+      "diplomatic_token": "[s/e]",
+      "visual_confidence": 0.76,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1508,
+        890,
+        1566,
+        990
+      ],
+      "crop_file": "glyph_crops/pos_10.png",
+      "observation": "Heavily filled body. Outer top and lower lobes resemble 27 and clearer s at 22; a medial aperture is not securely resolved."
+    },
+    {
+      "position": 11,
+      "row": 1,
+      "group_in_row": 3,
+      "offset_in_group": 1,
+      "preferred": "p",
+      "alternatives": [
+        "p"
+      ],
+      "diplomatic_token": "p",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1595,
+        870,
+        1651,
+        980
+      ],
+      "crop_file": "glyph_crops/pos_11.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 12,
+      "row": 1,
+      "group_in_row": 3,
+      "offset_in_group": 2,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1641,
+        870,
+        1696,
+        980
+      ],
+      "crop_file": "glyph_crops/pos_12.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 13,
+      "row": 1,
+      "group_in_row": 3,
+      "offset_in_group": 3,
+      "preferred": "d",
+      "alternatives": [
+        "d"
+      ],
+      "diplomatic_token": "d",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1686,
+        870,
+        1742,
+        980
+      ],
+      "crop_file": "glyph_crops/pos_13.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 14,
+      "row": 1,
+      "group_in_row": 3,
+      "offset_in_group": 4,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1732,
+        870,
+        1785,
+        980
+      ],
+      "crop_file": "glyph_crops/pos_14.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 15,
+      "row": 1,
+      "group_in_row": 3,
+      "offset_in_group": 5,
+      "preferred": "x",
+      "alternatives": [
+        "x"
+      ],
+      "diplomatic_token": "x",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1775,
+        870,
+        1845,
+        980
+      ],
+      "crop_file": "glyph_crops/pos_15.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 16,
+      "row": 1,
+      "group_in_row": 4,
+      "offset_in_group": 1,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1857,
+        860,
+        1912,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_16.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 17,
+      "row": 1,
+      "group_in_row": 4,
+      "offset_in_group": 2,
+      "preferred": "y",
+      "alternatives": [
+        "y"
+      ],
+      "diplomatic_token": "y",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1902,
+        860,
+        1959,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_17.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 18,
+      "row": 1,
+      "group_in_row": 4,
+      "offset_in_group": 3,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.94,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1949,
+        860,
+        2004,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_18.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 19,
+      "row": 1,
+      "group_in_row": 4,
+      "offset_in_group": 4,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.94,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1994,
+        860,
+        2051,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_19.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 20,
+      "row": 1,
+      "group_in_row": 4,
+      "offset_in_group": 5,
+      "preferred": "l",
+      "alternatives": [
+        "l"
+      ],
+      "diplomatic_token": "l",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2041,
+        860,
+        2102,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_20.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 21,
+      "row": 1,
+      "group_in_row": 5,
+      "offset_in_group": 1,
+      "preferred": "k",
+      "alternatives": [
+        "k"
+      ],
+      "diplomatic_token": "k",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2125,
+        850,
+        2185,
+        960
+      ],
+      "crop_file": "glyph_crops/pos_21.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 22,
+      "row": 1,
+      "group_in_row": 5,
+      "offset_in_group": 2,
+      "preferred": "s",
+      "alternatives": [
+        "s"
+      ],
+      "diplomatic_token": "s",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2175,
+        850,
+        2230,
+        960
+      ],
+      "crop_file": "glyph_crops/pos_22.png",
+      "observation": "Clear s with upper and lower lobes; useful in comparison to 10/27."
+    },
+    {
+      "position": 23,
+      "row": 1,
+      "group_in_row": 5,
+      "offset_in_group": 3,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2220,
+        850,
+        2275,
+        960
+      ],
+      "crop_file": "glyph_crops/pos_23.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 24,
+      "row": 1,
+      "group_in_row": 5,
+      "offset_in_group": 4,
+      "preferred": "j",
+      "alternatives": [
+        "j"
+      ],
+      "diplomatic_token": "j",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2265,
+        850,
+        2320,
+        960
+      ],
+      "crop_file": "glyph_crops/pos_24.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 25,
+      "row": 1,
+      "group_in_row": 5,
+      "offset_in_group": 5,
+      "preferred": "w",
+      "alternatives": [
+        "w"
+      ],
+      "diplomatic_token": "w",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2310,
+        850,
+        2381,
+        960
+      ],
+      "crop_file": "glyph_crops/pos_25.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 26,
+      "row": 1,
+      "group_in_row": 6,
+      "offset_in_group": 1,
+      "preferred": "o",
+      "alternatives": [
+        "o"
+      ],
+      "diplomatic_token": "o",
+      "visual_confidence": 0.93,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2399,
+        850,
+        2462,
+        952
+      ],
+      "crop_file": "glyph_crops/pos_26.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 27,
+      "row": 1,
+      "group_in_row": 6,
+      "offset_in_group": 2,
+      "preferred": "s",
+      "alternatives": [
+        "s",
+        "e"
+      ],
+      "diplomatic_token": "[s/e]",
+      "visual_confidence": 0.86,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2452,
+        850,
+        2507,
+        952
+      ],
+      "crop_file": "glyph_crops/pos_27.png",
+      "observation": "Filled two-lobed body resembles 10 and s at 22. Blue diagonal passes through lower left; e retained conservatively."
+    },
+    {
+      "position": 28,
+      "row": 1,
+      "group_in_row": 6,
+      "offset_in_group": 3,
+      "preferred": "e",
+      "alternatives": [
+        "e"
+      ],
+      "diplomatic_token": "e",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2497,
+        850,
+        2552,
+        952
+      ],
+      "crop_file": "glyph_crops/pos_28.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 29,
+      "row": 1,
+      "group_in_row": 6,
+      "offset_in_group": 4,
+      "preferred": "w",
+      "alternatives": [
+        "w"
+      ],
+      "diplomatic_token": "w",
+      "visual_confidence": 0.95,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2542,
+        850,
+        2598,
+        952
+      ],
+      "crop_file": "glyph_crops/pos_29.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 30,
+      "row": 1,
+      "group_in_row": 6,
+      "offset_in_group": 5,
+      "preferred": "x",
+      "alternatives": [
+        "x"
+      ],
+      "diplomatic_token": "x",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2588,
+        850,
+        2645,
+        952
+      ],
+      "crop_file": "glyph_crops/pos_30.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 31,
+      "row": 1,
+      "group_in_row": 7,
+      "offset_in_group": 1,
+      "preferred": "w",
+      "alternatives": [
+        "w"
+      ],
+      "diplomatic_token": "w",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2668,
+        840,
+        2726,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_31.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 32,
+      "row": 1,
+      "group_in_row": 7,
+      "offset_in_group": 2,
+      "preferred": "z",
+      "alternatives": [
+        "z"
+      ],
+      "diplomatic_token": "z",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2716,
+        840,
+        2772,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_32.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 33,
+      "row": 1,
+      "group_in_row": 7,
+      "offset_in_group": 3,
+      "preferred": "l",
+      "alternatives": [
+        "l"
+      ],
+      "diplomatic_token": "l",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2762,
+        840,
+        2815,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_33.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 34,
+      "row": 1,
+      "group_in_row": 7,
+      "offset_in_group": 4,
+      "preferred": "p",
+      "alternatives": [
+        "p"
+      ],
+      "diplomatic_token": "p",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2805,
+        840,
+        2859,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_34.png",
+      "observation": "p: bowl plus left-side descender ending in a horizontal foot. Not a plain o; compare p at 11/56/63."
+    },
+    {
+      "position": 35,
+      "row": 1,
+      "group_in_row": 7,
+      "offset_in_group": 5,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2849,
+        840,
+        2905,
+        974
+      ],
+      "crop_file": "glyph_crops/pos_35.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 36,
+      "row": 2,
+      "group_in_row": 1,
+      "offset_in_group": 1,
+      "preferred": "y",
+      "alternatives": [
+        "y"
+      ],
+      "diplomatic_token": "y",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        526,
+        1000,
+        584,
+        1140
+      ],
+      "crop_file": "glyph_crops/pos_36.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 37,
+      "row": 2,
+      "group_in_row": 1,
+      "offset_in_group": 2,
+      "preferred": "b",
+      "alternatives": [
+        "b"
+      ],
+      "diplomatic_token": "b",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        574,
+        1000,
+        627,
+        1140
+      ],
+      "crop_file": "glyph_crops/pos_37.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 38,
+      "row": 2,
+      "group_in_row": 1,
+      "offset_in_group": 3,
+      "preferred": "o",
+      "alternatives": [
+        "o"
+      ],
+      "diplomatic_token": "o",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        617,
+        1000,
+        670,
+        1140
+      ],
+      "crop_file": "glyph_crops/pos_38.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 39,
+      "row": 2,
+      "group_in_row": 1,
+      "offset_in_group": 4,
+      "preferred": "e",
+      "alternatives": [
+        "e"
+      ],
+      "diplomatic_token": "e",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        660,
+        1000,
+        718,
+        1140
+      ],
+      "crop_file": "glyph_crops/pos_39.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 40,
+      "row": 2,
+      "group_in_row": 1,
+      "offset_in_group": 5,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        708,
+        1000,
+        767,
+        1140
+      ],
+      "crop_file": "glyph_crops/pos_40.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 41,
+      "row": 2,
+      "group_in_row": 2,
+      "offset_in_group": 1,
+      "preferred": "x",
+      "alternatives": [
+        "x"
+      ],
+      "diplomatic_token": "x",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        796,
+        995,
+        855,
+        1130
+      ],
+      "crop_file": "glyph_crops/pos_41.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 42,
+      "row": 2,
+      "group_in_row": 2,
+      "offset_in_group": 2,
+      "preferred": "i",
+      "alternatives": [
+        "i"
+      ],
+      "diplomatic_token": "i",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        845,
+        995,
+        895,
+        1130
+      ],
+      "crop_file": "glyph_crops/pos_42.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 43,
+      "row": 2,
+      "group_in_row": 2,
+      "offset_in_group": 3,
+      "preferred": "v",
+      "alternatives": [
+        "v"
+      ],
+      "diplomatic_token": "v",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        885,
+        995,
+        942,
+        1130
+      ],
+      "crop_file": "glyph_crops/pos_43.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 44,
+      "row": 2,
+      "group_in_row": 2,
+      "offset_in_group": 4,
+      "preferred": "m",
+      "alternatives": [
+        "m",
+        "n"
+      ],
+      "diplomatic_token": "[m/n]",
+      "visual_confidence": 0.86,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        932,
+        995,
+        989,
+        1130
+      ],
+      "crop_file": "glyph_crops/pos_44.png",
+      "observation": "Two narrow cavities / faint central stem resemble 6 and 53; left edge adjoins v. n retained because of blur."
+    },
+    {
+      "position": 45,
+      "row": 2,
+      "group_in_row": 2,
+      "offset_in_group": 5,
+      "preferred": "i",
+      "alternatives": [
+        "i"
+      ],
+      "diplomatic_token": "i",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        979,
+        995,
+        1037,
+        1130
+      ],
+      "crop_file": "glyph_crops/pos_45.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 46,
+      "row": 2,
+      "group_in_row": 3,
+      "offset_in_group": 1,
+      "preferred": "k",
+      "alternatives": [
+        "k"
+      ],
+      "diplomatic_token": "k",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1057,
+        985,
+        1111,
+        1122
+      ],
+      "crop_file": "glyph_crops/pos_46.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 47,
+      "row": 2,
+      "group_in_row": 3,
+      "offset_in_group": 2,
+      "preferred": "a",
+      "alternatives": [
+        "a"
+      ],
+      "diplomatic_token": "a",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1101,
+        985,
+        1159,
+        1122
+      ],
+      "crop_file": "glyph_crops/pos_47.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 48,
+      "row": 2,
+      "group_in_row": 3,
+      "offset_in_group": 3,
+      "preferred": "r",
+      "alternatives": [
+        "r"
+      ],
+      "diplomatic_token": "r",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1149,
+        985,
+        1203,
+        1122
+      ],
+      "crop_file": "glyph_crops/pos_48.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 49,
+      "row": 2,
+      "group_in_row": 3,
+      "offset_in_group": 4,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1193,
+        985,
+        1251,
+        1122
+      ],
+      "crop_file": "glyph_crops/pos_49.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 50,
+      "row": 2,
+      "group_in_row": 3,
+      "offset_in_group": 5,
+      "preferred": "o",
+      "alternatives": [
+        "o"
+      ],
+      "diplomatic_token": "o",
+      "visual_confidence": 0.94,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1241,
+        985,
+        1305,
+        1122
+      ],
+      "crop_file": "glyph_crops/pos_50.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 51,
+      "row": 2,
+      "group_in_row": 4,
+      "offset_in_group": 1,
+      "preferred": "e",
+      "alternatives": [
+        "e"
+      ],
+      "diplomatic_token": "e",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1330,
+        980,
+        1386,
+        1120
+      ],
+      "crop_file": "glyph_crops/pos_51.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 52,
+      "row": 2,
+      "group_in_row": 4,
+      "offset_in_group": 2,
+      "preferred": "w",
+      "alternatives": [
+        "w"
+      ],
+      "diplomatic_token": "w",
+      "visual_confidence": 0.95,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1376,
+        980,
+        1433,
+        1120
+      ],
+      "crop_file": "glyph_crops/pos_52.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 53,
+      "row": 2,
+      "group_in_row": 4,
+      "offset_in_group": 3,
+      "preferred": "m",
+      "alternatives": [
+        "m",
+        "n"
+      ],
+      "diplomatic_token": "[m/n]",
+      "visual_confidence": 0.89,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1423,
+        980,
+        1478,
+        1120
+      ],
+      "crop_file": "glyph_crops/pos_53.png",
+      "observation": "Central stem is visible and resembles 6/44; n retained conservatively because of low contrast."
+    },
+    {
+      "position": 54,
+      "row": 2,
+      "group_in_row": 4,
+      "offset_in_group": 4,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.95,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1468,
+        980,
+        1520,
+        1120
+      ],
+      "crop_file": "glyph_crops/pos_54.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 55,
+      "row": 2,
+      "group_in_row": 4,
+      "offset_in_group": 5,
+      "preferred": "x",
+      "alternatives": [
+        "x"
+      ],
+      "diplomatic_token": "x",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1510,
+        980,
+        1569,
+        1120
+      ],
+      "crop_file": "glyph_crops/pos_55.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 56,
+      "row": 2,
+      "group_in_row": 5,
+      "offset_in_group": 1,
+      "preferred": "p",
+      "alternatives": [
+        "p"
+      ],
+      "diplomatic_token": "p",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1595,
+        980,
+        1649,
+        1110
+      ],
+      "crop_file": "glyph_crops/pos_56.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 57,
+      "row": 2,
+      "group_in_row": 5,
+      "offset_in_group": 2,
+      "preferred": "a",
+      "alternatives": [
+        "a"
+      ],
+      "diplomatic_token": "a",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1639,
+        980,
+        1694,
+        1110
+      ],
+      "crop_file": "glyph_crops/pos_57.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 58,
+      "row": 2,
+      "group_in_row": 5,
+      "offset_in_group": 3,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.94,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1684,
+        980,
+        1738,
+        1110
+      ],
+      "crop_file": "glyph_crops/pos_58.png",
+      "observation": "g: upper bowl plus separate descending lower loop, partly crossed by blue stamp."
+    },
+    {
+      "position": 59,
+      "row": 2,
+      "group_in_row": 5,
+      "offset_in_group": 4,
+      "preferred": "r",
+      "alternatives": [
+        "r"
+      ],
+      "diplomatic_token": "r",
+      "visual_confidence": 0.95,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1728,
+        980,
+        1784,
+        1110
+      ],
+      "crop_file": "glyph_crops/pos_59.png",
+      "observation": "r: left upright and short upper shoulder, no right full-height stem; compare r48/61/67."
+    },
+    {
+      "position": 60,
+      "row": 2,
+      "group_in_row": 5,
+      "offset_in_group": 5,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1774,
+        980,
+        1835,
+        1110
+      ],
+      "crop_file": "glyph_crops/pos_60.png",
+      "observation": "n: single rounded arch and two stems; compares with n77, no lower U connection."
+    },
+    {
+      "position": 61,
+      "row": 2,
+      "group_in_row": 6,
+      "offset_in_group": 1,
+      "preferred": "r",
+      "alternatives": [
+        "r"
+      ],
+      "diplomatic_token": "r",
+      "visual_confidence": 0.94,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1862,
+        970,
+        1916,
+        1102
+      ],
+      "crop_file": "glyph_crops/pos_61.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 62,
+      "row": 2,
+      "group_in_row": 6,
+      "offset_in_group": 2,
+      "preferred": "i",
+      "alternatives": [
+        "i"
+      ],
+      "diplomatic_token": "i",
+      "visual_confidence": 0.95,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1906,
+        970,
+        1964,
+        1102
+      ],
+      "crop_file": "glyph_crops/pos_62.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 63,
+      "row": 2,
+      "group_in_row": 6,
+      "offset_in_group": 3,
+      "preferred": "p",
+      "alternatives": [
+        "p"
+      ],
+      "diplomatic_token": "p",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1954,
+        970,
+        2008,
+        1102
+      ],
+      "crop_file": "glyph_crops/pos_63.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 64,
+      "row": 2,
+      "group_in_row": 6,
+      "offset_in_group": 4,
+      "preferred": "b",
+      "alternatives": [
+        "b"
+      ],
+      "diplomatic_token": "b",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1998,
+        970,
+        2053,
+        1102
+      ],
+      "crop_file": "glyph_crops/pos_64.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 65,
+      "row": 2,
+      "group_in_row": 6,
+      "offset_in_group": 5,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.92,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2043,
+        970,
+        2104,
+        1102
+      ],
+      "crop_file": "glyph_crops/pos_65.png",
+      "observation": "g: descending lower loop survives the vertical blue stamp."
+    },
+    {
+      "position": 66,
+      "row": 2,
+      "group_in_row": 7,
+      "offset_in_group": 1,
+      "preferred": "o",
+      "alternatives": [
+        "o"
+      ],
+      "diplomatic_token": "o",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2127,
+        960,
+        2186,
+        1090
+      ],
+      "crop_file": "glyph_crops/pos_66.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 67,
+      "row": 2,
+      "group_in_row": 7,
+      "offset_in_group": 2,
+      "preferred": "r",
+      "alternatives": [
+        "r"
+      ],
+      "diplomatic_token": "r",
+      "visual_confidence": 0.93,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2176,
+        960,
+        2232,
+        1090
+      ],
+      "crop_file": "glyph_crops/pos_67.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 68,
+      "row": 2,
+      "group_in_row": 7,
+      "offset_in_group": 3,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.9,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2222,
+        960,
+        2279,
+        1090
+      ],
+      "crop_file": "glyph_crops/pos_68.png",
+      "observation": "g: upper bowl and lower descender loop; stamp overlay is substantial."
+    },
+    {
+      "position": 69,
+      "row": 2,
+      "group_in_row": 7,
+      "offset_in_group": 4,
+      "preferred": "u",
+      "alternatives": [
+        "u",
+        "n"
+      ],
+      "diplomatic_token": "[u/n]",
+      "visual_confidence": 0.77,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2269,
+        960,
+        2325,
+        1090
+      ],
+      "crop_file": "glyph_crops/pos_69.png",
+      "observation": "U-shaped lower connection and separately rising sides favor u. Vertical and horizontal stamp strokes interfere with its upper arch; n remains viable."
+    },
+    {
+      "position": 70,
+      "row": 2,
+      "group_in_row": 7,
+      "offset_in_group": 5,
+      "preferred": "b",
+      "alternatives": [
+        "b"
+      ],
+      "diplomatic_token": "b",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2315,
+        960,
+        2376,
+        1090
+      ],
+      "crop_file": "glyph_crops/pos_70.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 71,
+      "row": 2,
+      "group_in_row": 8,
+      "offset_in_group": 1,
+      "preferred": "i",
+      "alternatives": [
+        "i"
+      ],
+      "diplomatic_token": "i",
+      "visual_confidence": 0.95,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2395,
+        950,
+        2452,
+        1085
+      ],
+      "crop_file": "glyph_crops/pos_71.png",
+      "observation": "Glyph shape and its relevant strokes are visually legible."
+    },
+    {
+      "position": 72,
+      "row": 2,
+      "group_in_row": 8,
+      "offset_in_group": 2,
+      "preferred": "e",
+      "alternatives": [
+        "e",
+        "a"
+      ],
+      "diplomatic_token": "[e/a]",
+      "visual_confidence": 0.8,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2442,
+        950,
+        2503,
+        1085
+      ],
+      "crop_file": "glyph_crops/pos_72.png",
+      "observation": "A medial bar and rounded lower body favor e, but the heavy impression and stamp leave the counter and lower-right termination indistinct; a remains viable. Compare clear e39/51 with a3/57/76."
+    },
+    {
+      "position": 73,
+      "row": 2,
+      "group_in_row": 8,
+      "offset_in_group": 3,
+      "preferred": "o",
+      "alternatives": [
+        "o"
+      ],
+      "diplomatic_token": "o",
+      "visual_confidence": 0.9,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2493,
+        950,
+        2545,
+        1085
+      ],
+      "crop_file": "glyph_crops/pos_73.png",
+      "observation": "o: closed right curve, upper and lower arcs; weak/broken left edge under diagonal stamp."
+    },
+    {
+      "position": 74,
+      "row": 2,
+      "group_in_row": 8,
+      "offset_in_group": 4,
+      "preferred": "d",
+      "alternatives": [
+        "d"
+      ],
+      "diplomatic_token": "d",
+      "visual_confidence": 0.94,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2535,
+        950,
+        2590,
+        1085
+      ],
+      "crop_file": "glyph_crops/pos_74.png",
+      "observation": "d: right ascender rising above left bowl; not i."
+    },
+    {
+      "position": 75,
+      "row": 2,
+      "group_in_row": 8,
+      "offset_in_group": 5,
+      "preferred": "i",
+      "alternatives": [
+        "i"
+      ],
+      "diplomatic_token": "i",
+      "visual_confidence": 0.95,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2580,
+        950,
+        2639,
+        1085
+      ],
+      "crop_file": "glyph_crops/pos_75.png",
+      "observation": "i: separated upper dot and lower serifed stem; compare i42/45/62/71."
+    },
+    {
+      "position": 76,
+      "row": 2,
+      "group_in_row": 9,
+      "offset_in_group": 1,
+      "preferred": "a",
+      "alternatives": [
+        "a"
+      ],
+      "diplomatic_token": "a",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2670,
+        950,
+        2723,
+        1078
+      ],
+      "crop_file": "glyph_crops/pos_76.png",
+      "observation": "a: upper counter, lower bowl and right foot; compare a3/47/57."
+    },
+    {
+      "position": 77,
+      "row": 2,
+      "group_in_row": 9,
+      "offset_in_group": 2,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2713,
+        950,
+        2762,
+        1078
+      ],
+      "crop_file": "glyph_crops/pos_77.png",
+      "observation": "n: upper arch and full right stem; compare n60/49."
+    }
+  ],
+  "comparison_artifacts": [
+    "comparison_n_m_u.png",
+    "comparison_loop_shapes.png",
+    "all_77_glyphs_contact_sheet.png"
+  ],
+  "limitations": [
+    "The source is a blurred photograph with heavy ink impressions and blue archival stamp overlays. Enlargements cannot recover lost detail.",
+    "The seven retained two-way alternatives must not be silently converted into certain letters.",
+    "No key, decipherment or claim of a solved cipher is supplied."
+  ]
+}

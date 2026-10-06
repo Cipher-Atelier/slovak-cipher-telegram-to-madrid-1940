@@ -1,0 +1,12 @@
+{
+  "status": "Post-test source-only image audit, unchanged frozen key",
+  "preferred_cipher": "xtoegmkgywdpndnxgmbw",
+  "preferred_plaintext": "vyslancatukrokovaniu",
+  "retained_ambiguous_positions": [
+    78,
+    83,
+    95
+  ],
+  "initial_result_preserved": "HELDOUT_FIRST_EVALUATION.json",
+  "qualification": "No new key fit or language-based source selection. Image-preferred transcript has three uncertainties; do not report as initial exact20/20 recovery."
+}

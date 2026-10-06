@@ -1,0 +1,12 @@
+{
+  "madrid-1940": {
+    "published_scope": "Weaker forward-substitution result with damaged training output and singleton mappings.",
+    "published_page": "https://github.com/cayde-6/historical-cipher-research/blob/24a7ae8f3e88664f3f1b472082f80259be641f98/madrid-1940/README.md",
+    "primary_and_prior_sources": [
+      "https://crypto.hcportal.eu/dashboard/cryptograms/125",
+      "https://api.hcportal.eu/media/331/12921655394769.jpg",
+      "https://ep.liu.se/ecp/171/004/ecp2020_171_004.pdf"
+    ],
+    "remaining_limits": "97-position adapter includes 77 training positions and 20 masks; five singleton mappings and four untrained mappings remain. The original is not an exact 20/20 hit."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "selected": {
+    "rank": 1,
+    "key": "hifklqawejcbnosrxpmydguvtz",
+    "training_score": -950.3733553402434,
+    "training_quadgram_score": -763.4484668165015,
+    "training_word_score": -186.92488852374188,
+    "training_mean_quadgram_score": -10.906406668807165,
+    "found_restart_zero_based": 1,
+    "found_after_proposal": 1282,
+    "quadgram_seed_rank": 2,
+    "plaintext_training_logical": "ochotnyso?rokovatoobcmojusmluvuzbratislavegnechposlunavrhapoperiaspadielskeho????????????????????",
+    "plaintext_active_word_interval": "ochotnyso?rokovatoobcmojusmluvuzbratislavegnechposlunavrhapoperiaspadielskeho"
+  },
+  "arbitrary_mapping_letters": "cfhq",
+  "source_training_sha256": "ca2b7b8985391b504c7df609ba6d3a555a9574aa7a0d0264000b5aa389e5e437",
+  "result_sha256": "1201ea240f23aff7a726c4612ef7985ef87fa80811cc8eea22794ed6289fde73",
+  "scope": "Forwardtrainingonly. Historicalholdoutnotread."
+}

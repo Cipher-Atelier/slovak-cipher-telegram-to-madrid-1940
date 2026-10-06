@@ -1,0 +1,115 @@
+{
+  "status": "Public export provenance record; file hashes identify these retained or explicitly redacted research records.",
+  "files": [
+    {
+      "path": "evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/FROZEN_SELECTED_KEY.json",
+      "topic": "madrid-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "d87a1af7febe7f8f55660fe27c9d75984edd414dd361e54e426ec2428d1adfec",
+      "source_sha256": "d87a1af7febe7f8f55660fe27c9d75984edd414dd361e54e426ec2428d1adfec",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/HELDOUT_FIRST_EVALUATION.json",
+      "topic": "madrid-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "b6eb4f581885b8b7bd3772cedf95c06aff8bec95cc66b07d95f4bbf8b9f03e29",
+      "source_sha256": "b6eb4f581885b8b7bd3772cedf95c06aff8bec95cc66b07d95f4bbf8b9f03e29",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/HELDOUT_POST_SOURCE_AUDIT.json",
+      "topic": "madrid-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "f9af0a2d3934c0c510d5a55bcffc4ea0aadf371f7ff348ccecd35d2f34aa86bc",
+      "source_sha256": "f9af0a2d3934c0c510d5a55bcffc4ea0aadf371f7ff348ccecd35d2f34aa86bc",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/KEY_SUPPORT_COUNTS.json",
+      "topic": "madrid-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "f24e68e454c5694f1dd6b76b7379b83dc88b4abebc068f2f8cc78bdfc1276efe",
+      "source_sha256": "f24e68e454c5694f1dd6b76b7379b83dc88b4abebc068f2f8cc78bdfc1276efe",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/FROZEN_POSITION_LEDGER.tsv",
+      "topic": "madrid-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "fd2fccef1b07a65f09ce4ec5312e58ed1f594aea85ff2db234d0d63bb0438baf",
+      "source_sha256": "fd2fccef1b07a65f09ce4ec5312e58ed1f594aea85ff2db234d0d63bb0438baf",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/target_training_adapter.txt",
+      "topic": "madrid-1940",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "ec68b6bb435b7b36121aab03562a42384c4628f94ae9a1d57d1d33efbbea8712",
+      "source_sha256": "ec68b6bb435b7b36121aab03562a42384c4628f94ae9a1d57d1d33efbbea8712",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Madrid1940_Forward_Evidence/mzv_c1940/source_audit_v2/audit.json",
+      "topic": "madrid-1940",
+      "role": "Source-position/initial-vs-later ledger; local paths omitted where indicated",
+      "sha256": "455b7ee559c0da1f6a0dca38029f51ba2b6a4a10ecba24380e573d6286c64ee3",
+      "source_sha256": "785f6545d2da1750972dd328a83cf17b479805e7663662d433ca293006f24fec",
+      "transform": "private local path strings replaced; scientific records retained",
+      "omitted_path_fields": [
+        "$.source_path",
+        "$.blind_protocol.files_read_for_evidence[0]"
+      ],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Madrid1940_Forward_Evidence/mzv_c1940/holdout_source_audit/audit.json",
+      "topic": "madrid-1940",
+      "role": "Source-position/initial-vs-later ledger; local paths omitted where indicated",
+      "sha256": "372397827eca06553a7ef8f616af30fe43d6802df3437ed2d591fd20db3b2372",
+      "source_sha256": "d21b7d77bf681c8d7769227ad3db042031130f030db7421b227287f0ee6a92f8",
+      "transform": "private local path strings replaced; scientific records retained",
+      "omitted_path_fields": [
+        "$.source_path",
+        "$.independence.source_evidence_read_this_pass[0]"
+      ],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    }
+  ],
+  "new_code": [
+    "replay.py"
+  ],
+  "excluded": [
+    "All manuscript images and rendered crops",
+    "All PDF/DOCX/old raw reports and private checkpoint files",
+    "All raw corpora and binary language models",
+    "All prior code from third-party repositories",
+    "Private Library identifiers and absolute working paths",
+    "Historical full-search runs and missing alphabet.json reconstruction"
+  ],
+  "rights_notes": [
+    "Source links do not license images; coordinate-only reproduction is used.",
+    "Project-authored code/data does not establish ownership or sublicensing of third-party archives. Coordinator should add appropriate notices, not invent a repository-wide licence."
+  ],
+  "adapted_replay_source_sha256": "de40dfdccf8d3179bd83ab878a6cddd9d3bb3213f4b08285946befbce0640f2c"
+}

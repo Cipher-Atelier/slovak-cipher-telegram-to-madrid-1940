@@ -1,0 +1,21 @@
+{
+  "basis_commit": "24a7ae8f3e88664f3f1b472082f80259be641f98",
+  "note": "One topic only. Migration adds a public subset, not a complete original evidence archive.",
+  "topics": [
+    {
+      "topic": "madrid-1940",
+      "category": "partial_reading",
+      "published_page": "https://github.com/Cipher-Atelier/madrid-1940/blob/main/madrid-1940/README.md",
+      "claim_scope": "Weaker forward-substitution result with damaged training output and singleton mappings.",
+      "source_links": [
+        "https://crypto.hcportal.eu/dashboard/cryptograms/125",
+        "https://api.hcportal.eu/media/331/12921655394769.jpg",
+        "https://ep.liu.se/ecp/171/004/ecp2020_171_004.pdf"
+      ],
+      "minimum_verification_scope": "FROZEN_POSITION_LEDGER.tsv, FROZEN_SELECTED_KEY.json, KEY_SUPPORT_COUNTS.json, initial and post-source heldout JSON, source_audit_v2 and holdout audit, adapter orientation explanation, fixed-key replay.",
+      "public_release_gap": "97-position adapter includes 77 training positions and 20 masks; five singleton mappings and four untrained mappings remain. The original is not an exact 20/20 hit.",
+      "verification_entry": "readings/README.md",
+      "original_published_page": "https://github.com/cayde-6/historical-cipher-research/blob/24a7ae8f3e88664f3f1b472082f80259be641f98/madrid-1940/README.md"
+    }
+  ]
+}

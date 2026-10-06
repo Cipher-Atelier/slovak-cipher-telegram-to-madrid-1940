@@ -1,0 +1,8 @@
+{
+  "evaluated_at_utc": "2026-10-04T14:50:01.309263+00:00",
+  "frozen_key_sha256": "d87a1af7febe7f8f55660fe27c9d75984edd414dd361e54e426ec2428d1adfec",
+  "ciphertext": "xtoegmkgywdpndnxgnbw",
+  "literal_frozen_key_plaintext": "vyslancatukrokovaoiu",
+  "untrained_cipher_letters": [],
+  "policy": "One direct forward application of frozen training-only key. No refitting, no plaintext-derived corrections. Heldout is now consumed."
+}

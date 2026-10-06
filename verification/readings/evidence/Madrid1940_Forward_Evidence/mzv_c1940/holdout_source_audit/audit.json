@@ -1,0 +1,493 @@
+{
+  "title": "HCP125 independent image-only source audit of transmitted positions 78–97",
+  "created_utc": "2026-10-04T14:59:49.873776+00:00",
+  "source_path": "[private working path omitted]",
+  "source_url": "https://api.hcportal.eu/media/331/12921655394769.jpg",
+  "source_url_note": "Supplied original image used locally; public URL not re-downloaded.",
+  "source_sha256": "bb5ae33ea563566f922010b7629bd4e4235a9185dfff5ade4ca10ea14cb8a667",
+  "source_dimensions": [
+    3024,
+    4032
+  ],
+  "scope": {
+    "positions": [
+      78,
+      97
+    ],
+    "glyph_count": 20,
+    "physical_rows": {
+      "2": [
+        78,
+        80
+      ],
+      "3": [
+        81,
+        97
+      ]
+    },
+    "header_signature_and_layout_excluded": true
+  },
+  "diplomatic_rows": [
+    "[x/z]to",
+    "eg[m/n]kg ywdpn dnxg[m/n] bw"
+  ],
+  "preferred_rows": [
+    "xto",
+    "egmkg ywdpn dnxgm bw"
+  ],
+  "preferred_letters": "xtoegmkgywdpndnxgmbw",
+  "unresolved_positions": [
+    78,
+    83,
+    95
+  ],
+  "unbounded_unknown_positions": [],
+  "combinations_if_independent": 8,
+  "letters": [
+    {
+      "position": 78,
+      "holdout_position": 1,
+      "row": 2,
+      "preferred": "x",
+      "alternatives": [
+        "x",
+        "z"
+      ],
+      "diplomatic_token": "[x/z]",
+      "visual_confidence": 0.86,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2752,
+        955,
+        2826,
+        1090
+      ],
+      "crop_file": "glyph_crops/pos_78.png",
+      "channel_plate": "pos_78_channels.png",
+      "observation": "The crossed body favors x, but heavy upper/lower serifs and joined strokes leave z viable; compared with x41/x55 and uncertain 32 using source pixels only."
+    },
+    {
+      "position": 79,
+      "holdout_position": 2,
+      "row": 2,
+      "preferred": "t",
+      "alternatives": [
+        "t"
+      ],
+      "diplomatic_token": "t",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2799,
+        950,
+        2867,
+        1090
+      ],
+      "crop_file": "glyph_crops/pos_79.png",
+      "channel_plate": "pos_79_channels.png",
+      "observation": "t: ascender, crossbar and lower right hook are visible."
+    },
+    {
+      "position": 80,
+      "holdout_position": 3,
+      "row": 2,
+      "preferred": "o",
+      "alternatives": [
+        "o"
+      ],
+      "diplomatic_token": "o",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        2842,
+        950,
+        2910,
+        1090
+      ],
+      "crop_file": "glyph_crops/pos_80.png",
+      "channel_plate": "pos_80_channels.png",
+      "observation": "o: closed oval with no ascender or descender."
+    },
+    {
+      "position": 81,
+      "holdout_position": 4,
+      "row": 3,
+      "preferred": "e",
+      "alternatives": [
+        "e"
+      ],
+      "diplomatic_token": "e",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        519,
+        1120,
+        593,
+        1252
+      ],
+      "crop_file": "glyph_crops/pos_81.png",
+      "channel_plate": "pos_81_channels.png",
+      "observation": "e: rounded body with a medial bar and right-side opening."
+    },
+    {
+      "position": 82,
+      "holdout_position": 5,
+      "row": 3,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        567,
+        1120,
+        641,
+        1252
+      ],
+      "crop_file": "glyph_crops/pos_82.png",
+      "channel_plate": "pos_82_channels.png",
+      "observation": "g: upper bowl and descending lower loop."
+    },
+    {
+      "position": 83,
+      "holdout_position": 6,
+      "row": 3,
+      "preferred": "m",
+      "alternatives": [
+        "m",
+        "n"
+      ],
+      "diplomatic_token": "[m/n]",
+      "visual_confidence": 0.89,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        613,
+        1120,
+        686,
+        1252
+      ],
+      "crop_file": "glyph_crops/pos_83.png",
+      "channel_plate": "pos_83_channels.png",
+      "observation": "Two narrow interior spaces and a faint medial stroke favor m, matching the m-shaped source controls. The central stroke is weak enough to retain n."
+    },
+    {
+      "position": 84,
+      "holdout_position": 7,
+      "row": 3,
+      "preferred": "k",
+      "alternatives": [
+        "k"
+      ],
+      "diplomatic_token": "k",
+      "visual_confidence": 0.99,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        658,
+        1120,
+        733,
+        1252
+      ],
+      "crop_file": "glyph_crops/pos_84.png",
+      "channel_plate": "pos_84_channels.png",
+      "observation": "k: left ascender with two diagonal arms."
+    },
+    {
+      "position": 85,
+      "holdout_position": 8,
+      "row": 3,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        705,
+        1120,
+        778,
+        1252
+      ],
+      "crop_file": "glyph_crops/pos_85.png",
+      "channel_plate": "pos_85_channels.png",
+      "observation": "g: upper bowl and descending loop."
+    },
+    {
+      "position": 86,
+      "holdout_position": 9,
+      "row": 3,
+      "preferred": "y",
+      "alternatives": [
+        "y"
+      ],
+      "diplomatic_token": "y",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        791,
+        1115,
+        865,
+        1247
+      ],
+      "crop_file": "glyph_crops/pos_86.png",
+      "channel_plate": "pos_86_channels.png",
+      "observation": "y: forked upper strokes and descending left-curving lower stroke."
+    },
+    {
+      "position": 87,
+      "holdout_position": 10,
+      "row": 3,
+      "preferred": "w",
+      "alternatives": [
+        "w"
+      ],
+      "diplomatic_token": "w",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        837,
+        1115,
+        910,
+        1247
+      ],
+      "crop_file": "glyph_crops/pos_87.png",
+      "channel_plate": "pos_87_channels.png",
+      "observation": "w: two joined v-like troughs."
+    },
+    {
+      "position": 88,
+      "holdout_position": 11,
+      "row": 3,
+      "preferred": "d",
+      "alternatives": [
+        "d"
+      ],
+      "diplomatic_token": "d",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        881,
+        1115,
+        954,
+        1247
+      ],
+      "crop_file": "glyph_crops/pos_88.png",
+      "channel_plate": "pos_88_channels.png",
+      "observation": "d: right ascender above the bowl."
+    },
+    {
+      "position": 89,
+      "holdout_position": 12,
+      "row": 3,
+      "preferred": "p",
+      "alternatives": [
+        "p"
+      ],
+      "diplomatic_token": "p",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        927,
+        1115,
+        997,
+        1247
+      ],
+      "crop_file": "glyph_crops/pos_89.png",
+      "channel_plate": "pos_89_channels.png",
+      "observation": "p: left downstroke descends below the bowl."
+    },
+    {
+      "position": 90,
+      "holdout_position": 13,
+      "row": 3,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        969,
+        1115,
+        1045,
+        1247
+      ],
+      "crop_file": "glyph_crops/pos_90.png",
+      "channel_plate": "pos_90_channels.png",
+      "observation": "n: one broad counter and two uprights; no medial stem, unlike the m-shaped controls."
+    },
+    {
+      "position": 91,
+      "holdout_position": 14,
+      "row": 3,
+      "preferred": "d",
+      "alternatives": [
+        "d"
+      ],
+      "diplomatic_token": "d",
+      "visual_confidence": 0.98,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1052,
+        1110,
+        1128,
+        1240
+      ],
+      "crop_file": "glyph_crops/pos_91.png",
+      "channel_plate": "pos_91_channels.png",
+      "observation": "d: right ascender above the left bowl."
+    },
+    {
+      "position": 92,
+      "holdout_position": 15,
+      "row": 3,
+      "preferred": "n",
+      "alternatives": [
+        "n"
+      ],
+      "diplomatic_token": "n",
+      "visual_confidence": 0.97,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1100,
+        1110,
+        1173,
+        1240
+      ],
+      "crop_file": "glyph_crops/pos_92.png",
+      "channel_plate": "pos_92_channels.png",
+      "observation": "n: single arch and one broad counter; no medial stem."
+    },
+    {
+      "position": 93,
+      "holdout_position": 16,
+      "row": 3,
+      "preferred": "x",
+      "alternatives": [
+        "x"
+      ],
+      "diplomatic_token": "x",
+      "visual_confidence": 0.95,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1146,
+        1110,
+        1216,
+        1240
+      ],
+      "crop_file": "glyph_crops/pos_93.png",
+      "channel_plate": "pos_93_channels.png",
+      "observation": "x: crossed diagonal body with four serif terminals."
+    },
+    {
+      "position": 94,
+      "holdout_position": 17,
+      "row": 3,
+      "preferred": "g",
+      "alternatives": [
+        "g"
+      ],
+      "diplomatic_token": "g",
+      "visual_confidence": 0.96,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1189,
+        1110,
+        1265,
+        1240
+      ],
+      "crop_file": "glyph_crops/pos_94.png",
+      "channel_plate": "pos_94_channels.png",
+      "observation": "g: upper bowl and separate descending loop."
+    },
+    {
+      "position": 95,
+      "holdout_position": 18,
+      "row": 3,
+      "preferred": "m",
+      "alternatives": [
+        "m",
+        "n"
+      ],
+      "diplomatic_token": "[m/n]",
+      "visual_confidence": 0.8,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1237,
+        1110,
+        1312,
+        1240
+      ],
+      "crop_file": "glyph_crops/pos_95.png",
+      "channel_plate": "pos_95_channels.png",
+      "observation": "A faint medial upright favors m, but the right portion overlaps a vertical blue stamp band. n cannot be securely excluded."
+    },
+    {
+      "position": 96,
+      "holdout_position": 19,
+      "row": 3,
+      "preferred": "b",
+      "alternatives": [
+        "b"
+      ],
+      "diplomatic_token": "b",
+      "visual_confidence": 0.94,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1324,
+        1100,
+        1400,
+        1240
+      ],
+      "crop_file": "glyph_crops/pos_96.png",
+      "channel_plate": "pos_96_channels.png",
+      "observation": "b: left ascender and a closed right-hand bowl. The stamp interrupts the ascender, giving a dot-like impression at low resolution, but the bowl matches b37/b64/b70 and excludes the provisional i reading."
+    },
+    {
+      "position": 97,
+      "holdout_position": 20,
+      "row": 3,
+      "preferred": "w",
+      "alternatives": [
+        "w"
+      ],
+      "diplomatic_token": "w",
+      "visual_confidence": 0.95,
+      "confidence_is_calibrated": false,
+      "crop_box_xyxy": [
+        1370,
+        1100,
+        1450,
+        1240
+      ],
+      "crop_file": "glyph_crops/pos_97.png",
+      "channel_plate": "pos_97_channels.png",
+      "observation": "w: two joined v-shaped troughs and multiple upper terminals, visible despite the stamp."
+    }
+  ],
+  "transforms_manifest": "transforms.json",
+  "method": "Original RGB crops, separate R/G/B channels, fixed linear blue-channel contrast views and direct same-typewriter comparisons against original source glyphs. Every channel-view conclusion checked against original RGB. No generated pixels, reconstruction, watermark removal, decipherment or language-based correction.",
+  "source_only_revisions_during_this_pass": [
+    "Low-resolution provisional 96=i corrected to b after its right-hand bowl was seen in original RGB and compared to b controls.",
+    "Low-resolution provisional 95=n replaced with finite m/n alternatives, with m preferred.",
+    "Provisional 78=x retained as preferred but broadened to x/z because of heavy ink and merged serifs."
+  ],
+  "independence": {
+    "existing_holdout_transcription_opened": false,
+    "target_key_opened": false,
+    "target_plaintext_exposure": false,
+    "target_key_exposure": false,
+    "solver_or_pilot_output_opened": false,
+    "result_folders_inspected": false,
+    "source_evidence_read_this_pass": [
+      "[private working path omitted]"
+    ],
+    "derived_files_read_this_pass": "Only files created in holdout_source_audit during this pass.",
+    "incidental_exposure_caveat": "During the earlier channel audit, an agent-inventory response inadvertently displayed summaries of a separate historical known-key control and a period-language model. No HCP125 target plaintext/key/pilot output was exposed, no corresponding result files were opened, and those summaries were not used. This holdout source audit is independent of the evaluated target holdout, but cannot be described as historically blind to every other cipher-related summary."
+  },
+  "confidence_note": "Subjective visual confidence in preferred reading; not statistically calibrated. Finite alternatives are source-shape possibilities, not language/solver-ranked options.",
+  "stopping_condition": "All 20 glyphs inspected. Retain the three bounded alternatives rather than force a unique reading."
+}

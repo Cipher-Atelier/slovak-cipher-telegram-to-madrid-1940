@@ -1,0 +1,158 @@
+[
+  {
+    "cipher": "a",
+    "plain": "h",
+    "training_occurrences": 4,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "b",
+    "plain": "i",
+    "training_occurrences": 3,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "c",
+    "plain": "f",
+    "training_occurrences": 0,
+    "status": "arbitrary, unseen"
+  },
+  {
+    "cipher": "d",
+    "plain": "k",
+    "training_occurrences": 2,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "e",
+    "plain": "l",
+    "training_occurrences": 4,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "f",
+    "plain": "q",
+    "training_occurrences": 0,
+    "status": "arbitrary, unseen"
+  },
+  {
+    "cipher": "g",
+    "plain": "a",
+    "training_occurrences": 7,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "h",
+    "plain": "w",
+    "training_occurrences": 0,
+    "status": "arbitrary, unseen"
+  },
+  {
+    "cipher": "i",
+    "plain": "e",
+    "training_occurrences": 5,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "j",
+    "plain": "j",
+    "training_occurrences": 1,
+    "status": "single occurrence, weakly constrained"
+  },
+  {
+    "cipher": "k",
+    "plain": "c",
+    "training_occurrences": 3,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "l",
+    "plain": "b",
+    "training_occurrences": 2,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "m",
+    "plain": "n",
+    "training_occurrences": 3,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "n",
+    "plain": "o",
+    "training_occurrences": 11,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "o",
+    "plain": "s",
+    "training_occurrences": 6,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "p",
+    "plain": "r",
+    "training_occurrences": 4,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "q",
+    "plain": "x",
+    "training_occurrences": 0,
+    "status": "arbitrary, unseen"
+  },
+  {
+    "cipher": "r",
+    "plain": "p",
+    "training_occurrences": 4,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "s",
+    "plain": "m",
+    "training_occurrences": 2,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "t",
+    "plain": "y",
+    "training_occurrences": 1,
+    "status": "single occurrence, weakly constrained"
+  },
+  {
+    "cipher": "u",
+    "plain": "d",
+    "training_occurrences": 1,
+    "status": "single occurrence, weakly constrained"
+  },
+  {
+    "cipher": "v",
+    "plain": "g",
+    "training_occurrences": 1,
+    "status": "single occurrence, weakly constrained"
+  },
+  {
+    "cipher": "w",
+    "plain": "u",
+    "training_occurrences": 4,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "x",
+    "plain": "v",
+    "training_occurrences": 4,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "y",
+    "plain": "t",
+    "training_occurrences": 3,
+    "status": "multiple occurrences, still candidate mapping"
+  },
+  {
+    "cipher": "z",
+    "plain": "z",
+    "training_occurrences": 1,
+    "status": "single occurrence, weakly constrained"
+  }
+]
