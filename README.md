@@ -2,7 +2,7 @@
 
 Weaker partial forward-substitution reading, with damaged training output and singleton mappings. Preserve the first consumed test separately from post-test source correction; no exact 20/20 claim.
 
-Read the [research account](madrid-1940/README.md), [topic navigation](madrid-1940/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
+Read the [research account](madrid-1940/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
 
 Run the bounded offline checks with Python 3.10 or later from this repository root:
 
