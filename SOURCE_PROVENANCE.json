@@ -162,5 +162,27 @@
         "current_sha256": "8dbef3af7df508258dfeb193b9411489995b273f22999b3cf3292421be0e5d17"
       }
     ]
+  },
+  "reader_guidance_update": {
+    "date_utc": "2026-10-06",
+    "previous_commit": "f663b898f290ffce2340e3d501382a593cb8c812",
+    "scope": "English reader introduction, case-specific worked example and technical reproduction instructions only. Research inputs, code, keys, literals, recorded results, source rights and claim status are unchanged. Earlier provenance inventories remain publication snapshots.",
+    "files": [
+      {
+        "path": "README.md",
+        "previous_sha256": "8dbef3af7df508258dfeb193b9411489995b273f22999b3cf3292421be0e5d17",
+        "current_sha256": "3030f914081c7ddf01fb61c36159b079867a3233f9773c81db00e90d7c80f1e3"
+      },
+      {
+        "path": "READING_GUIDE.md",
+        "previous_sha256": null,
+        "current_sha256": "a9a4f03b5b8108e054f3f7ed3c81361b92c14c73f60e1f1da0ec2507c715f916"
+      },
+      {
+        "path": "verification/README.md",
+        "previous_sha256": "cf666fa1f7720d6d0c2aaa964897a2ff93dbc69e2bab4a40ed280464f46c889c",
+        "current_sha256": "87d448b56244497f428a8203ee3b366a9c5c92878d9af01d95f4e82d30b7cc53"
+      }
+    ]
   }
 }
