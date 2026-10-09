@@ -14,6 +14,10 @@ vyslancatukrokovaoiu
 
 This is the first saved output for the withheld span. A later image-supported alternative changes it to vyslancatukrokovaniu; that later version is not the original test result.
 
+## Research update — 9 October 2026
+
+Read the [new check and its limits](research-updates/2026-10-09-residual-audit.md). This update is documentation; new experiment scripts are not included.
+
 ## Start reading
 
 1. [Read the plain-language guide](READING_GUIDE.md): the document, result, file meanings and one worked check. No programming is required.
