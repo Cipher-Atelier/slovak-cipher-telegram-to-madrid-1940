@@ -4,7 +4,9 @@ The completed independent replay of the saved evidence passed. The result remain
 
 The smoother suffix depends on a source correction made after the original test. It is a post-test result, not an independent confirmation or an exact blind recovery of the withheld span. The consumed holdout cannot be used again as fresh evidence. The [existing research account](../madrid-1940/README.md) preserves the first evaluation separately from the corrected alternative.
 
-Position 69 remains a d/o source alternative. An editorial n must not silently replace those alternatives or become a cipher-derived letter. The residual audit established no new letters and does not remove the other damaged or ambiguous signs.
+**Terminology correction — 11 October 2026:** at position 69 the encrypted-source alternatives are `u/n`, which produce decoded `d/o`. The earlier report’s “d/o source alternative” wording conflated these layers.
+
+Position 69 remains unresolved between decoded d/o. An editorial n must not silently replace those alternatives or become a cipher-derived letter. The residual audit established no new letters and does not remove the other damaged or ambiguous signs.
 
 The [HCP125 catalogue entry](https://crypto.hcportal.eu/dashboard/cryptograms/125) identifies the telegram. Antal, Zajac and Grošek's [HistoCrypt 2020 paper](https://ep.liu.se/ecp/171/004/ecp2020_171_004.pdf) is prior scholarship on the cipher systems, not independent evidence for the present suffix or position 69.
 

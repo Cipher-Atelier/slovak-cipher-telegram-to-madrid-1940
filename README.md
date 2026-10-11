@@ -2,17 +2,20 @@
 
 A Slovak diplomatic telegram addressed to Madrid on 11 November 1940, catalogued as HCP125. It uses a letter-substitution cipher.
 
-## What has been found?
+## Current result — 11 October 2026
 
-The candidate reading suggests negotiations, Bratislava, a proposal and an envoy. It remains partial: several words are damaged, some key values have very little evidence, and a later source correction must be distinguished from the first test.
+This is a partial candidate substitution reading, with a qualified interpretation suggesting negotiations, a Bratislava proposal and an envoy. Positions 1–77 fitted the key; positions 78–97 were withheld. Five cipher letters have only one training occurrence, and `c`, `f`, `h`, `q` have none. Filled values for unused entries are not recovered historical mappings.
 
-A small example from the recorded result:
+| Evidence layer | Open this |
+| --- | --- |
+| Original | [HCP125 catalogue](https://crypto.hcportal.eu/dashboard/cryptograms/125) · [source image](https://api.hcportal.eu/media/331/12921655394769.jpg) |
+| Recorded signs / frozen candidate key | [Position ledger](verification/readings/evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/FROZEN_POSITION_LEDGER.tsv) · [key](verification/readings/evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/FROZEN_SELECTED_KEY.json) |
+| First literal / later alternative | [First withheld output](verification/readings/evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/HELDOUT_FIRST_EVALUATION.json) · [post-test source audit](verification/readings/evidence/Madrid1940_Forward_Evidence/mzv_c1940/pilot_v4/forward_diagnostic/HELDOUT_POST_SOURCE_AUDIT.json) |
+| Qualified interpretation | [Research account](madrid-1940/README.md) |
 
-```text
-vyslancatukrokovaoiu
-```
+The first withheld output is `vyslancatukrokovaoiu`. A later image-supported encrypted-source `n → m` change at position 95 gives `vyslancatukrokovaniu` under the unchanged key. Its interpretation, “the envoy here for negotiations”, is a post-test alternative. At position 69, source alternatives `u/n` produce decoded `d/o`; an editorial `n` would change the output. [Check `n/k/a → o/c/h` and the later correction](READING_GUIDE.md#check-one-example-by-hand).
 
-This is the first saved output for the withheld span. A later image-supported alternative changes it to vyslancatukrokovaniu; that later version is not the original test result.
+**Unresolved / missing:** damaged wording, source ambiguities and weak mappings remain; no complete English translation is included. The 9 October residual audit accepted no new letters. The first result remains preserved separately from the later version, and the consumed holdout cannot become a fresh test.
 
 ## Research update — 9 October 2026
 

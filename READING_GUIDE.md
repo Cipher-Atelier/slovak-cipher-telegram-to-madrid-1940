@@ -22,6 +22,8 @@ vyslancatukrokovaoiu
 
 This is the first saved output for the withheld span. A later image-supported alternative changes it to vyslancatukrokovaniu; that later version is not the original test result.
 
+At position 69 the encrypted-source alternatives are `u/n`, giving decoded `d/o`. These are different layers: replacing the output with `n` would be an editorial change. The 9 October residual audit accepted no new letters. No complete English translation is included.
+
 There is no complete fluent plaintext or exact original 20/20 recovery. Adding spaces is different from changing letters: do not turn damaged words into established treaty terminology without evidence.
 
 ## Check one example by hand
